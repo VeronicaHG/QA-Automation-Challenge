@@ -53,8 +53,7 @@ npm install
 3. Run tests:
 npx playwright test
 
-   🧪 Test Strategy
-
+🧪 Test Strategy
 This project combines:
 
 Exploratory testing to discover unexpected issues
