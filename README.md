@@ -53,7 +53,7 @@ npm install
 3. Run tests:
 npx playwright test
 
-🧪 Test Strategy
+##🧪 Test Strategy
 
 This project combines:
 
@@ -67,7 +67,7 @@ Critical user journeys
 High-risk functionalities
 Input validation and error scenarios
 
-✅ Key Test Scenarios
+##✅ Key Test Scenarios
 
 Add transaction flow
 Form validation (valid/invalid inputs)
@@ -75,7 +75,7 @@ Error messages handling
 UI consistency
 API response validation
 
-🐞 Bugs & Findings
+##🐞 Bugs & Findings
 
 Some issues identified during testing include:
 
@@ -86,7 +86,7 @@ UI behavior issues in edge cases
 👉 See detailed findings in:
 /exploratory-testing
 
-🚀 Improvements
+##🚀 Improvements
 
 Future improvements could include:
 
@@ -95,7 +95,7 @@ Test reporting (HTML reports)
 Increased test coverage
 Data-driven testing
 
-🤝 Contribution
+##🤝 Contribution
 
 This project is open to improvements and collaboration.
 
@@ -105,7 +105,7 @@ Fork the repo
 Create a feature branch
 Submit a pull request
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Veronica
 QA Engineer focused on test automation and quality processes
