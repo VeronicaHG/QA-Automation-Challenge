@@ -50,15 +50,15 @@ The following areas were covered:
 
 ```bash
 git clone https://github.com/VeronicaHG/your-repo-name.git
-
+```
 2. Install dependencies:
-
-npm install
-
-3. Run tests:
-
-npx playwright test
 ```bash
+npm install
+```
+3. Run tests:
+```bash
+npx playwright test
+```
 
 ## 🧪 Test Strategy
 
