@@ -34,6 +34,7 @@ The following areas were covered:
 - **Test Design:** Manual + Automated  
 
 ---
+
 ## 📂 Project Structure 
 
 /tests → UI automated test cases 
@@ -57,6 +58,9 @@ npm install
 3. Run tests:
 ```bash
 npx playwright test
+
+
+
 
 🧪 Test Strategy
 
