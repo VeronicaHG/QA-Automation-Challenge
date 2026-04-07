@@ -48,21 +48,21 @@ The following areas were covered:
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/VeronicaHG/your-repo-name.git
-```bash
 
 ## ▶️ How to Run the Tests
 
 2. Install dependencies:
-</> bash
+ 
 npm install
 
 3. Run tests:
+
 npx playwright test
 
 
-##🧪 Test Strategy
+## 🧪 Test Strategy
 
 This project combines:
 
@@ -92,7 +92,7 @@ UI behavior issues in edge cases
 👉 See detailed findings in:
 /exploratory-testing
 
-🚀 Improvements
+## 🚀 Improvements
 
 Future improvements could include:
 
@@ -100,7 +100,7 @@ Integration with CI/CD (GitHub Actions)
 Test reporting (HTML reports)
 Increased test coverage
 Data-driven testing
-🤝 Contribution
+ ## 🤝 Contribution
 
 This project is open to improvements and collaboration.
 
@@ -109,7 +109,7 @@ If you'd like to contribute:
 Fork the repo
 Create a feature branch
 Submit a pull request
-👩‍💻 Author
+## 👩‍💻 Author
 
 Veronica
 QA Engineer focused on test automation and quality processes
